@@ -1,0 +1,1 @@
+This interactive map was made with QGIS and the qgis2web plugin. It comprehensively details the 2024 General Election results for El Paso County for 4 ballot measures: Amendment J, Proposition KK, Question 300, and Amendment 79.
