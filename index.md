@@ -18,7 +18,7 @@ When you get to the map, use the Leaflet dropdown menu in the upper-right corner
 
 **Proposition KK:** Proposed levying a 6.5% excise tax on the sale and manufacturing of firearms and ammunition. This tax would be imposed on firearms dealers, manufacturers, and ammunition vendors. The revenue from this tax would be used to fund crime victim services programs, mental health programs for children and veterans, and school security and safety programs. Proposition KK succeeded state-wide, with 54.4% of all voters voting Yes/For, but failed in El Paso County with 54.4% of voters voting No/Against.
 
-**Question 300:** Proposed authorizing medical marijuana licensees to become recreational marijuana retail licensees. Question 300 succeeded in Colorado Springs, with 54.7% of voters voting Yes/For.
+**Question 300:** Proposed authorizing medical marijuana licensees in Colorado Springs to become recreational marijuana retail licensees. Question 300 succeeded in Colorado Springs, with 54.7% of voters voting Yes/For.
 
 **Amendment 79**: Proposed creating a right to abortion in the state of Colorado and allowing the use of public funds for abortion. Amendment 79 succeeded state-wide, with 62% of voters voting Yes/For, and succeeded in El Paso County with 52% of voters voting Yes/For.
 
