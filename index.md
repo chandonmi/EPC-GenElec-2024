@@ -22,4 +22,4 @@ When you get to the map, use the Leaflet dropdown menu in the upper-right corner
 
 **Amendment 79**: Proposed creating a right to abortion in the state of Colorado and allowing the use of public funds for abortion. Amendment 79 succeeded state-wide, with 62% of voters voting Yes/For, and succeeded in El Paso County with 52% of voters voting Yes/For.
 
-<iframe src="qgis2web_2025_08_25-15_03_14_455580/map.html" height="700" width="700"></iframe>
+<iframe src="qgis2web_2025_08_27-11_48_25_480166/map.html" height="700" width="700"></iframe>
